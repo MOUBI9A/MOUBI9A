@@ -112,17 +112,35 @@ Architecture   █████████░ 90% System Design, SOLID, Patterns
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOUBI9A&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/MOUBI9A)
+### 📈 Overall Statistics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOUBI9A&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/MOUBI9A)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOUBI9A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=27)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MOUBI9A&theme=tokyonight)](https://github.com/MOUBI9A)
+### 🔝 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOUBI9A&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MOUBI9A&theme=tokyonight&hide_border=true&stroke=DDDDDD)
+
+### 📊 Contribution Graph
+
+![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=MOUBI9A&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+### 🎯 Key Metrics
+- **Total Contributions:** 150+ repositories
+- **Public Projects:** 30+
+- **Followers:** Growing community
+- **Focus Areas:** Full-Stack | SaaS | Open Source
 
 ---
 
