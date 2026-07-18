@@ -20,9 +20,19 @@
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+## 🎯 Core Skills
+- Systems programming (C/C++)
+- Web development (JavaScript/TypeScript)
+- Scripting and automation (Shell)
+- Mobile development basics (Dart/Flutter projects)
+- Git-based project workflow
 
 ## 📊 GitHub Stats
 <p>
@@ -31,7 +41,8 @@
 </p>
 
 ## 🌐 Connect
-- Add your preferred contact links here (LinkedIn, portfolio, email, etc.).
+- 📧 Email: [hamzamoadin37@gmail.com](mailto:hamzamoadin37@gmail.com)
+- 📸 Instagram: [@hel_moue](https://instagram.com/hel_moue)
 
 ---
 <p align="center">
